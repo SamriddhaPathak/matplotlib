@@ -1,4 +1,4 @@
-Introduction
+Introduction: 
 Matplotlib is one of the most widely used libraries for creating static, interactive, and animated visualizations in Python. This repository is aimed at both beginners and intermediate users who want to enhance their data visualization skills by working with examples and learning the core features of Matplotlib.
 
 Through this repository, you will:
