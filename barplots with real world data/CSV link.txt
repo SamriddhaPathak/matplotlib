@@ -1,4 +1,4 @@
-Download the 2023 version of the annual survey from the link below:
+Download the CSV file for 2023 version of the annual survey from the link below:
 
 https://survey.stackoverflow.co/
 
