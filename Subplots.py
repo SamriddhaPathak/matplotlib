@@ -16,5 +16,5 @@ axs[0].legend(loc='lower left')
 axs[1].pie(slices2, labels = labels2, autopct = "%1.1f%%")
 axs[1].legend(loc='lower right')
   
-plt.tight_layout()
+plt.tight_layout()  
 plt.show()
