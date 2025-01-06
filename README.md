@@ -118,4 +118,3 @@ Contributions are welcome! You can improve the code, add new examples, or sugges
 - Adhere to PEP 8 coding standards.
 - Include clear comments and docstrings.
 - Maintain the existing repository structure.
-
