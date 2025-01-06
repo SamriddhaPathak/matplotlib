@@ -119,5 +119,3 @@ Contributions are welcome! You can improve the code, add new examples, or sugges
 - Include clear comments and docstrings.
 - Maintain the existing repository structure.
 
-
-
