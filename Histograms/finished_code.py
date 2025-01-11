@@ -22,6 +22,6 @@ plt.title('Ages of Respondents')
 plt.xlabel('Ages')
 plt.ylabel('Total Respondents')
 
-plt.tight_layout()
+plt.tight_layout()  
 
-plt.show()
+plt.show()    
